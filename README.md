@@ -15,7 +15,6 @@ Este projeto apresenta um relógio digital atualizado a cada segundo utilizando 
 ## Visual do projeto
 
 ![Relógio Digital](img/img-relogio.png)  
-*Imagem ilustrativa do relógio digital (substitua pelo seu print)*
 
 ## Como usar
 
