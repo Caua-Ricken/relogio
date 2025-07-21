@@ -14,7 +14,7 @@ Este projeto apresenta um relógio digital atualizado a cada segundo utilizando 
 
 ## Visual do projeto
 
-![Relógio Digital](img/img-relogio.png)  
+![Relógio Digital](img/relogio.png)  
 
 ## Como usar
 
