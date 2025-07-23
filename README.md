@@ -21,8 +21,8 @@ Este projeto apresenta um relógio digital atualizado a cada segundo utilizando 
 1. Clone ou baixe este repositório.
    ```bash
    git clone https://github.com/Caua-Ricken/relogio.git
-3. Abra o arquivo `index.html` em seu navegador.
-4. Veja o relógio funcionando em tempo real.
+2. Abra o arquivo `index.html` em seu navegador.
+3. Veja o relógio funcionando em tempo real.
 
 Feito por Cauã Ricken.
 
